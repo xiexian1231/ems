@@ -1,0 +1,19 @@
+/* 修改密码和退出开始 */
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{
+ 	background-color: rgba(192, 189, 189, 0.7) !important;
+    background:red;
+}
+ .nav>li>a:hover{
+	background-color: rgba(192, 189, 189, 0.7) !important;
+
+}
+.nav>li>a:focus{
+	background-color:rgba(192, 189, 189, 0.7) !important; 
+}
+/* 结束 */
+
+.icon-user{
+	color: white;
+}
+
+

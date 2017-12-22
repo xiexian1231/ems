@@ -1,0 +1,25 @@
+/* 带箭头提示框开始 */
+.b_main{position:absolute;} 
+.out{ 
+position:absolute; 
+border-color:transparent #4B77BE transparent transparent; 
+border-style:dashed dashed solid dashed; 
+border-width:8px; 
+} 
+.in{ 
+position:absolute; 
+border-color:transparent #ffffff transparent transparent; 
+border-style:dashed dashed solid dashed; 
+border-width:8px; 
+top:-8px; 
+left:-6px; 
+} 
+.border{ 
+position:relative; 
+border:1px solid #4B77BE; 
+padding:10px; 
+left:16px; 
+border-radius:5px; 
+background-color: #FFFFFF;
+}
+/* 结束 */
